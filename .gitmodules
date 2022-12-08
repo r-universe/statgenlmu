@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "coala"]
-	path = coala
-	url = https://github.com/statgenlmu/coala
-	shallow = true
-	registered = true
 [submodule "jaatha"]
 	path = jaatha
 	url = https://github.com/statgenlmu/jaatha
