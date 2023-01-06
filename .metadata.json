@@ -1,5 +1,9 @@
 [
   {
+    "package": "coala",
+    "oncran": true
+  },
+  {
     "package": "jaatha",
     "oncran": true
   }
